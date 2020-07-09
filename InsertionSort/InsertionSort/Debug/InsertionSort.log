@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\정유림\Desktop\Algorithm\Algorithm_Basic\InsertionSort\InsertionSort\소스.cpp(3,21): warning C4101: 'index' :참조되지 않은 지역 변수입니다.
+C:\Users\정유림\Desktop\Algorithm\Algorithm_Basic\InsertionSort\InsertionSort\소스.cpp(3,17): warning C4101: 'min' :참조되지 않은 지역 변수입니다.
+  InsertionSort.vcxproj -> C:\Users\정유림\Desktop\Algorithm\Algorithm_Basic\InsertionSort\Debug\InsertionSort.exe
