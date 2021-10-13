@@ -1,3 +1,0 @@
-﻿  소스.cpp
-C:\Users\정유림\Desktop\Algorithm\Algorithm_Basic\selection sort\selection sort\소스.cpp(3,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
-  selection sort.vcxproj -> C:\Users\정유림\Desktop\Algorithm\Algorithm_Basic\selection sort\Debug\selection sort.exe
